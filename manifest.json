@@ -1,0 +1,10 @@
+{
+  "name": "Zarodeur Modpack",
+  "version": "1.0.0",
+  "minecraft": {
+    "version": "1.20.1",
+    "loader": "forge",
+    "loaderVersion": "47.4.0"
+  },
+  "mods": []
+}
