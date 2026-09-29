@@ -1,6 +1,6 @@
 {
   "name": "Zarodeur Modpack",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "minecraft": {
     "version": "1.20.1",
     "loader": "forge",
@@ -12,6 +12,12 @@
       "file": "jei-1.20.1-forge-15.62.0.216.jar",
       "url": "https://github.com/Zarodeur/ZarodeurModpack/releases/download/v1.0.0/jei-1.20.1-forge-15.62.0.216.jar",
       "sha256": "80ECE8BD42497C94CBCAB5D9B82594A53831B249BB33E1FF6DCF568A4B7A637B"
+    },
+    {
+      "id": "create",
+      "file": "create-1.20.1-6.0.7.jar",
+      "url": "https://github.com/Zarodeur/ZarodeurModpack/releases/download/v1.1.0/create-1.20.1-6.0.7.jar",
+      "sha256": "B8B77F9539025F126A0ADB286CEAD2A5C69EAFD7906C97135AD3CA2CA66B9219"
     }
   ]
 }
