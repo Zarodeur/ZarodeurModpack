@@ -1,6 +1,6 @@
 {
   "name": "Zarodeur Modpack",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "minecraft": {
     "version": "1.20.1",
     "loader": "forge",
@@ -18,7 +18,7 @@
       "file": "create-1.20.1-6.0.7.jar",
       "url": "https://github.com/Zarodeur/ZarodeurModpack/releases/download/v1.1.0/create-1.20.1-6.0.7.jar",
       "sha256": "B8B77F9539025F126A0ADB286CEAD2A5C69EAFD7906C97135AD3CA2CA66B9219"
-    }
+    },
     {
       "id": "mekanism",
       "file": "Mekanism-1.20.1-10.4.16.80.jar",
